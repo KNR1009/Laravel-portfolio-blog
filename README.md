@@ -1,3 +1,13 @@
+
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+<img width="1136" alt="スクリーンショット 2020-10-28 15 14 31" src="https://user-images.githubusercontent.com/57901015/97399389-70693600-1930-11eb-9b32-292672e27da2.png">
+
+
+<img width="1167" alt="スクリーンショット 2020-10-28 15 10 43" src="https://user-images.githubusercontent.com/57901015/97399278-26805000-1930-11eb-982f-976102130775.png">
+
+<img width="1136" alt="スクリーンショット 2020-10-28 15 14 31" src="https://user-images.githubusercontent.com/57901015/97399346-54fe2b00-1930-11eb-8848-4a5740d8739d.png">
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -18,15 +28,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-<img width="1171" alt="スクリーンショット 2020-10-28 15 11 02" src="https://user-images.githubusercontent.com/57901015/97399246-18323400-1930-11eb-98d4-2c3b71a3ef01.png">
-
-<img width="1167" alt="スクリーンショット 2020-10-28 15 10 43" src="https://user-images.githubusercontent.com/57901015/97399278-26805000-1930-11eb-982f-976102130775.png">
-
-<img width="1136" alt="スクリーンショット 2020-10-28 15 14 31" src="https://user-images.githubusercontent.com/57901015/97399346-54fe2b00-1930-11eb-8848-4a5740d8739d.png">
-
 
 
 ## Learning Laravel
