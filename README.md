@@ -25,7 +25,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 <img width="1167" alt="スクリーンショット 2020-10-28 15 10 43" src="https://user-images.githubusercontent.com/57901015/97399278-26805000-1930-11eb-982f-976102130775.png">
 
-<img width="1157" alt="スクリーンショット 2020-10-28 15 10 19" src="https://user-images.githubusercontent.com/57901015/97399294-339d3f00-1930-11eb-9e83-247b6550f5e6.png">
+<img width="1136" alt="スクリーンショット 2020-10-28 15 14 31" src="https://user-images.githubusercontent.com/57901015/97399346-54fe2b00-1930-11eb-8848-4a5740d8739d.png">
 
 
 
