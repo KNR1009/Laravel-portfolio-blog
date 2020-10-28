@@ -1,7 +1,7 @@
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-<img width="1136" alt="スクリーンショット 2020-10-28 15 14 31" src="https://user-images.githubusercontent.com/57901015/97399389-70693600-1930-11eb-9b32-292672e27da2.png">
+<img width="1157" alt="スクリーンショット 2020-10-28 15 10 19" src="https://user-images.githubusercontent.com/57901015/97399469-942c7c00-1930-11eb-9cdf-e83279654fe6.png">
 
 
 <img width="1167" alt="スクリーンショット 2020-10-28 15 10 43" src="https://user-images.githubusercontent.com/57901015/97399278-26805000-1930-11eb-982f-976102130775.png">
