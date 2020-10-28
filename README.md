@@ -21,6 +21,14 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+<img width="1171" alt="スクリーンショット 2020-10-28 15 11 02" src="https://user-images.githubusercontent.com/57901015/97399246-18323400-1930-11eb-98d4-2c3b71a3ef01.png">
+
+<img width="1167" alt="スクリーンショット 2020-10-28 15 10 43" src="https://user-images.githubusercontent.com/57901015/97399278-26805000-1930-11eb-982f-976102130775.png">
+
+<img width="1157" alt="スクリーンショット 2020-10-28 15 10 19" src="https://user-images.githubusercontent.com/57901015/97399294-339d3f00-1930-11eb-9e83-247b6550f5e6.png">
+
+
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
